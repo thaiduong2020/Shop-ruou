@@ -1,0 +1,33 @@
+/*==Reset CSS==*/
+
+footer {
+    height: 230px;
+    background: #bd4c09;
+}
+
+h3 {
+    background-color: black;
+    color: white;
+    margin-bottom: 0px;
+}
+
+ul {
+    display: flex;
+    list-style-type: none;
+    background-color: #bd4c09;
+    height: 50px;
+}
+
+ul>li {
+    padding: 7px 10px;
+    font-size: 23px;
+}
+
+ul>li>a {
+    color: black;
+}
+
+a:hover {
+    text-decoration: none;
+    color: white;
+}

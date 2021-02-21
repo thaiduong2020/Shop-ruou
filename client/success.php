@@ -1,0 +1,1 @@
+<h2 style="text-align: center;color: darkgreen;margin-bottom: 6px;">Đặt hàng thành công </h2><a style="margin-left: 45.4%;" href="/duan1/client/">quay lại trang chủ</a>
